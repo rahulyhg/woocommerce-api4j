@@ -1,2 +1,1 @@
-# woocommerce-api4j
-woocommerce api for java
+## WooCommerce Java Http SDK
