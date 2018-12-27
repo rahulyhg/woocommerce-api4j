@@ -1,1 +1,1 @@
-## WooCommerce Java Http SDK
+## WooCommerce Java Http Client
